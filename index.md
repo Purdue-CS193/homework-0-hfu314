@@ -43,4 +43,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 **Hi**
 _Hey_
 ***:)***
-[here](https://github.com/Purdue-CS193/homework-0-hfu314/edit/master/index.md)
+[here](https://github.com/Purdue-CS193/homework-0-hfu314/blob/master/index.md)
